@@ -1,2 +1,2 @@
-# macos-configurator
-MacOS Configurator
+# MacOS Configurator
+
